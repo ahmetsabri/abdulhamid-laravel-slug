@@ -1,5 +1,5 @@
-# Fatih Laravel Search
-A laravel package to search via your models .
+# Abdulhamid Laravel Search
+A laravel package to slugg columns via your models .
 
 installation : 
 
@@ -13,7 +13,7 @@ Usage :
 Example :
 
 ```  
-use Ahmetsabri\FatihLaravelSearch\Searchable;
+use Ahmetsabri\Abdulhamid\Searchable;
 
 class Post extends Model {
 
