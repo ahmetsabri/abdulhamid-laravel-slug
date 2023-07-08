@@ -1,5 +1,5 @@
 {
-    "name": "ahmed/abdulhamid-laravel-sluggable",
+    "name": "ahmetsabri/abdulhamid-laravel-sluggable",
     "description": "simple laravel slugging package",
     "autoload": {
         "psr-4": {
