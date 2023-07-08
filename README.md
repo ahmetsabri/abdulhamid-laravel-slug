@@ -3,7 +3,7 @@ A laravel package to slugg columns via your models .
 
 installation : 
 
-`composer require ahmetsabri/fatih-laravel-search`
+`composer require ahmetsabri/abdulhamid-laravel-slug`
 
 Usage :
 
