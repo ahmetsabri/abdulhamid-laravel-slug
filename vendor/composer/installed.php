@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'ahmed/abdulhamid-laravel-sluggable',
+        'name' => 'ahmetsabri/abdulhamid-laravel-slug',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '33e39703b9bef1d7def632e7ea1a1e3084189b78',
+        'reference' => '7a595174bc480ced006679d4c35c727fc3342d7a',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'ahmed/abdulhamid-laravel-sluggable' => array(
+        'ahmetsabri/abdulhamid-laravel-slug' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '33e39703b9bef1d7def632e7ea1a1e3084189b78',
+            'reference' => '7a595174bc480ced006679d4c35c727fc3342d7a',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

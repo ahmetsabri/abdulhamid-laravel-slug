@@ -3,7 +3,7 @@
     "description": "simple laravel slugging package",
     "autoload": {
         "psr-4": {
-            "Ahmed\\Abdulhamid\\": "src/"
+            "Ahmetsabri\\Abdulhamid\\": "src/"
         }
     },
     "authors": [

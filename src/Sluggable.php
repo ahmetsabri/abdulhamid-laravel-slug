@@ -1,5 +1,5 @@
 <?php
-namespace Ahmed\Abdulhamid;
+namespace Ahmetsabri\Abdulhamid;
 use Illuminate\Support\Str;
 
 trait Sluggable {
